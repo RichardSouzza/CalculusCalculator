@@ -26,4 +26,4 @@ python main.py
 ```
 
 ## Screenshots
-![App Screenshot]((/assets/images/game_image.png))
+![App Screenshot](assets/images/app-screenshot.png)
